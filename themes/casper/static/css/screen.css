@@ -165,6 +165,9 @@ table { border-collapse: collapse; border-spacing: 0; }
 .icon-link:before {
     content: "\f442";
 }
+.icon-home:before {
+  content: "\f409";
+}
 
 
 /* ==========================================================================
@@ -181,7 +184,7 @@ html {
 body {
     height: 100%;
     max-height: 100%;
-    font-family: "Merriweather", serif;
+    /**font-family: "Merriweather", serif;**/
     letter-spacing: 0.01rem;
     font-size: 1.8rem;
     line-height: 1.75em;
@@ -868,10 +871,10 @@ body.nav-opened .menu-button .word {
 
 .page-description {
     margin: 0;
-    font-size: 2rem;
+    font-size: 3rem;
     line-height: 1.5em;
-    font-weight: 400;
-    font-family: "Merriweather", serif;
+    font-weight: 600;
+    /**font-family: "Merriweather", serif;**/
     letter-spacing: 0.01rem;
     color: rgba(255,255,255,0.8);
 }
@@ -1043,19 +1046,19 @@ body:not(.post-template) .post-title {
    5. Single Post - When you click on an individual post
    ========================================================================== */
 
-.post-template .post-header {
-   margin-bottom: 3.4rem;
+.post .post-header {
+   margin-bottom: 2.4rem;
 }
 
-.post-template .post-title {
+.post .post-title {
     margin-bottom: 0;
 }
 
-.post-template .post-meta {
+.post .post-meta {
     margin: 0;
 }
 
-.post-template .post-date {
+.post .post-date {
     padding: 0;
     margin: 0;
     border: none;

@@ -8,7 +8,8 @@
     
     <nav class="main-nav overlay clearfix">
         {{ if .Site.Params.logo }}
-            <a class="blog-logo" href="{{ .Permalink }}"><img src="{{.Site.BaseURL}}{{ .Site.Params.logo }}" alt="Blog Logo" /></a>
+            <a class="blog-logo" href="{{ .Permalink }}"><span class="icon-home" style="color:white;font-size:1.5em"></span>
+</a>
         {{end}}
         {{ if .Site.Menus.main }}
             <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
@@ -17,6 +18,9 @@
               <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;Subscribe</a>
             {{else}}
               <a class="menu-button icon-feed" href="{{ .RSSLink }}">&nbsp;&nbsp;Subscribe</a>
+              <a class="menu-button" href="#" style="margin-right:10px">Resume</a>
+              <a class="menu-button" href="#" style="margin-right:10px">About</a>
+              <a class="menu-button" href="#" style="margin-right:10px">Home</a>
             {{end}}
         {{end}}
     </nav>
@@ -33,7 +37,8 @@
                     <span class="icon-twitter" style="color:white;font-size:2em"></span>
                 </a>
             {{end}}
-            <h1 class="page-title">{{ .Site.Title }}</h1>
+            <!--<h1 class="page-title">{{ .Site.Title }}</h1>-->
+            <h1 class="page-title">Howdy!</h1>
             <h2 class="page-description">{{ .Site.Params.description }}</h2>
         </div>
     </div>
