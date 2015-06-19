@@ -7,9 +7,6 @@
         <p>{{ .Summary }} <a class="read-more" href="{{.RelPermalink}}">&raquo;</a></p>
     </section>
     <footer class="post-meta">
-        {{if .Site.Params.logo }}
-            <img class="author-thumb" src="{{ .Site.BaseURL }}{{.Site.Params.logo}}" alt="Author image" nopin="nopin" />
-        {{end}}
         {{if .Site.Params.author}}
             {{.Site.Params.author}}
         {{end}}

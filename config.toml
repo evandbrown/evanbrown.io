@@ -1,8 +1,8 @@
-baseurl = "http://evanbrown.io"
+baseurl = "http://evanbrown.io/"
 languageCode = "en-US"
 title = "evanbrown.io"
-paginate = 5
-DisqusShortname = "YOUR_SHORT_NAME_HERE"
+paginate = 4
+DisqusShortname = "evanbrownio"
 Copyright = "All rights reserved - 2015"
 
 [params]
@@ -12,7 +12,6 @@ Copyright = "All rights reserved - 2015"
   authorlocation = "Seattle, WA"
   authorwebsite = "http://evanbrown.io"
   bio= "Dad, developer, Googler in Seattle."
-  logo = "img/logo.png"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   githubName = "evandbrown"
   twitterName = "evandbrown"

@@ -168,6 +168,9 @@ table { border-collapse: collapse; border-spacing: 0; }
 .icon-home:before {
   content: "\f409";
 }
+.icon-linkedin:before {
+  content: "\f207";
+}
 
 
 /* ==========================================================================
@@ -358,6 +361,7 @@ pre {
     overflow: auto;
     background: #F7FAFB;
     border-radius: 3px;
+    word-wrap: normal;
 }
 
 pre code, pre tt {
@@ -516,8 +520,9 @@ body.nav-opened .site-wrapper {
 
 .main-nav {
     position: relative;
-    padding: 35px 40px;
+    padding: 15px 40px;
     margin: 0 0 30px 0;
+    background-color: #cccccc;
 }
 
 .main-nav a {
@@ -769,6 +774,7 @@ body.nav-opened .nav {
     float: left;
     background: none !important;
     border: none !important;
+    margin-right: 15px;
 }
 
 .blog-logo img {
@@ -798,8 +804,9 @@ body.nav-opened .nav {
     line-height: 35px;
     white-space: nowrap;
     border-radius: 3px;
-    background: rgba(0,0,0,0.1);
+    background: rgba(0,0,0,0.5);
     transition: all 0.5s ease;
+    margin-left: 10px;
 }
 .menu-button:focus {
     outline: 0;
@@ -830,24 +837,24 @@ body.nav-opened .menu-button .word {
     top: 0;
     left: 0;
     right: 0;
-    height: 70px;
+    /**height: 70px;**/
     border: none;
-    background: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%,rgba(0,0,0,0) 100%);
+    background: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,.3) 100%);
 }
 .no-cover .main-nav.overlay,
 .no-cover .menu-button {
-    background: none;
+/**    background: none;**/
 }
 
-.main-nav.overlay a {
+.main-nav a {
     color: #fff;
 }
 
-.main-nav.overlay .menu-button {
+.main-nav .menu-button {
     border-color: rgba(255,255,255,0.6);
 }
 
-.main-nav.overlay a:hover {
+.main-nav a:hover {
     color: #222;
     border-color: #fff;
     background: #fff;
@@ -1087,7 +1094,7 @@ body:not(.post-template) .post-title {
    text column to break out. */
 .post-content img {
     display: block;
-    max-width: 126%;
+    max-width: 100%;
     height: auto;
     padding: 0.6em 0;
     /* Centers an image by (1) pushing its left edge to the
@@ -1640,6 +1647,16 @@ body:not(.post-template) .post-title {
 
     .main-nav.overlay .menu-button {
         border-color: transparent;
+    }
+    
+    .no-cover .main-nav .menu-button {
+        border-color: transparent;
+    }
+    
+    .no-cover .main-nav a:hover {
+        color: #fff;
+        border-color: transparent;
+        background: transparent;
     }
 
     .nav-title {

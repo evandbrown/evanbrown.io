@@ -1,9 +1,11 @@
 +++
 date = "2015-06-18T15:06:24-07:00"
+comments = false 
 draft = false 
 title = "About Me"
-
+image = "img/about-cover.jpg"
 +++
+
 I was born, raised, and educated in New Mexico. I moved to Seattle in 2005 after graduating from the University of New Mexico with a BS in Biology. I wanted to write software, but I didn't really want to be a biologist.
 
 I started my career as a Bioinformatics Developer at [Seattle Biomed](http://www.seattlebiomed.org) and had the [chance to do work in Tanzania](http://p.evanbrown.io/Travel/Tanzania-2006). In 2008 I helped my buddy start [Enmetric Systems](https://www.enmetric.com/) - we went all-in on Amazon Web Services and I fell in love with cloud. In 2011 I went to work for Amazon, leading up the new technical training program as the first trainer. [I married Elli](http://evandbrown.smugmug.com/Other/Wedding) - the love of my life - in Chacala, Mexico on December 31 2011. I [traveled](http://p.evanbrown.io/Travel/Seoul-2012) [the](http://p.evanbrown.io/Travel/London-2012) [world](http://p.evanbrown.io/Travel/Oxford-2012) for a few years, then settled down working on the [Elastic Beanstalk](http://aws.amazon.com/elasticbeanstalk) and [CloudFormation](http://aws.amazon.com/cloudformation) services.
