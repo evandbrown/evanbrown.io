@@ -171,6 +171,15 @@ table { border-collapse: collapse; border-spacing: 0; }
 .icon-linkedin:before {
   content: "\f207";
 }
+.icon-picture:before {
+  content: "\f473";
+}
+.icon-mail:before {
+  content: "\f410";
+}
+.icon-phone:before {
+  content: "\f437";
+}
 
 
 /* ==========================================================================
@@ -246,12 +255,25 @@ h6 {
 }
 
 a {
-    color: #4A4A4A;
+    color: #428bca;
+    text-decoration: none;
     transition: color 0.3s ease;
 }
 
 a:hover {
     color: #111;
+}
+
+ul.contact {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+ul.contact li {
+    list-style-type: none:
+}
+ul.contact li i {
+    margin-right: 15px;
 }
 
 p, ul, ol, dl {

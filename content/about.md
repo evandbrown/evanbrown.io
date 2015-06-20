@@ -4,6 +4,8 @@ comments = false
 draft = false 
 title = "About Me"
 image = "img/about-cover.jpg"
+share = false
+footer = false
 +++
 
 I was born, raised, and educated in New Mexico. I moved to Seattle in 2005 after graduating from the University of New Mexico with a BS in Biology. I wanted to write software, but I didn't really want to be a biologist.
