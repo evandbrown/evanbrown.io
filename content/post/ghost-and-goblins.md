@@ -5,7 +5,7 @@ draft = false
 image = "img/symlink_1-1423668786097.png"
 menu = ""
 share = true
-slug = "ghosts-and-goblins-customizing-a-ghost-blog-themeghosts-and-goblins-customizing-a-ghost-blog-theme"
+slug = "ghosts-and-goblins"
 tags = ["tech"]
 title = "Ghosts and Goblins: Customizing a Ghost Blog Theme"
 
