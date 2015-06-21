@@ -85,7 +85,7 @@ You could probably track down a CSS class and hide the timer, but I wanted to er
 ### After-Post Share and Author Info
 I dithered on these two a bit, but ultimately decided I wanted Disqus comments to follow a post and nothing else:
 
-![](/img//postpost-1423668817125.png)
+![](/img/postpost-1423668817125.png)
 
 Create a new file `goblin/assets/css/custom.css` and fill it with this:
 

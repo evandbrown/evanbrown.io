@@ -5,7 +5,7 @@ draft = false
 image = "img/20120506_dsc00293-1425317929763.jpg"
 menu = ""
 share = false 
-slug = "about-the-image"
+slug = "about-the-image-02"
 title = "About the Image"
 
 +++
