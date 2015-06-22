@@ -12,5 +12,6 @@ deploy:
   region: us-west-2
   endpoint: www.evanbrown.io.s3-website-us-west-2.amazonaws.com
   local-dir: public
+  skip_cleanup: true
   on:
     repo: evandbrown/evanbrown.io
