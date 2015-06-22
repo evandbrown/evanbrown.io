@@ -12,6 +12,5 @@ deploy:
   bucket: www.evanbrown.io
   endpoint: www.evanbrown.io.s3-website-us-west-2.amazonaws.com
   local-dir: public
-  acl: ''
   on:
     repo: evandbrown/evanbrown.io
