@@ -11,6 +11,5 @@ deploy:
     secure: YjhkMQRgWn71EbycHKhVwyaDBqUDG1YyFaYxvDbA20o8NoNVH3T3TnAvSW4QonW8xK08bwQUf6qtYvp7OoyRV8HjdHI+J6TJLRkjxz9KJd4bQS84yS+UX1eYJ13sThvIFeoblPNVQ9oXXqzdaDIr3JX1ueJkFhbz8MpZiMDnd9A/4U1ic89DsJ8nmuHJD1ly791ApPQTK8StGAD1ZB/olZMMcjBThiMLT/Dkb2XKWpXiSOViyrysdn8ng5jgoTk37nGcxn4NJkfBc3YJMSc4z2c11bY9qWEK/f6rjEF82xlGkniTCO9V/xvt+ZYnS1VCchvzhWY6yFdOacoMPD79ELshm0llg9ZCtlu9TCJpnrCnXahfcBfHIizEytpBveB/siSGo1ble2Z7E06p4nyq4QcyTPYhd+icB3AWzrKmpysEghZkr2Mf8RvOzQOF/6xXrxMymJjogu3M1XO7bSSWBtMAk1bcqjGz39YylF7zEQBHmk3DibTvT3xb/mJYIKdNcxLselMYk1K0zQAOBe7e+P7Q6iyLILtPRSMvEt2hnU+5e2+OJlOxQoe7FTuAse66Kqridc1HnHl/ekh65Mowt9Nba43NmVBfunpKfA4lSA2nHvcCb9I/RulHKBcTRP8mkOM6p5cgdkcq4NQzPzWRIlUE0JTRlcIO6ELW4Xl8DpQ=
   bucket: www.evanbrown.io
   endpoint: www.evanbrown.io.s3-website-us-west-2.amazonaws.com
-  local-dir: $HOME/gopath/src/github.com/evandbrown/evanbrown.io/public
   on:
     repo: evandbrown/evanbrown.io
