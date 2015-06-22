@@ -6,4 +6,4 @@ go:
 install:
   - go get github.com/spf13/hugo
 
-script: hugo -t casper
+script: hugo -t casper -d $HOME
