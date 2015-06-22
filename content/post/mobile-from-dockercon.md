@@ -1,5 +1,11 @@
-+++ comments = true date = "2015-06-22T00:00:00-00:00" draft = false image = "img/evans-face.jpg" share = false slug = "mobile-from-dockercon" tags = ["dev"] title = "Mobile From DockerCon"
-
++++
+comments = true 
+date = "2015-06-22T00:00:00-00:00"
+draft = false
+image = "img/evans-face.jpg"
+share = false
+slug = "mobile-from-dockercon"
+tags = ["dev"] title = "Mobile From DockerCon"
 
 +++
 
@@ -14,6 +20,6 @@ In a nutshell:
 
 Working Copy supports whatever that iOS feature is that lets you share things between apps. Here's me getting this post from Notes to Working Copy:
 
-![](img/wc-share.png)
+![](/img/wc-share.png)
 
 Proper tutorial post to come...
