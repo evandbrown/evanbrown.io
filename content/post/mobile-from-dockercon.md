@@ -5,7 +5,8 @@ draft = false
 image = "img/evans-face.jpg"
 share = false
 slug = "mobile-from-dockercon"
-tags = ["dev"] title = "Mobile From DockerCon"
+tags = ["dev"]
+title = "Mobile From DockerCon"
 
 +++
 
