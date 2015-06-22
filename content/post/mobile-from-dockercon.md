@@ -1,6 +1,6 @@
 +++ comments = true date = "2015-06-22T00:00:00-00:00" draft = false image = "img/evans-face.jpg" share = false slug = "mobile-from-dockercon" tags = ["dev"] title = "Mobile From DockerCon"
-
 +++
+
 [Yesterday on Twitter](https://twitter.com/evandbrown/status/612753716249239552) I asked if anyone had tips for authoring and publishing with [Hugo](gohugo.io) from a mobile device. After a bit of hacking, I've cracked it (at least in a way that works for me.) All of this post was done from my iPhone. 
 
 In a nutshell:
