@@ -10,7 +10,7 @@ title = "Pancake Pointers"
 
 +++
 
-I've always loved pancakes, but really got into making them when June was born. She's loves them since she started eating solids, and I took some artistic leisure for her birthday breakfast:
+I really got into making pancakes when June was born. She's loved them since she started eating solids, and I took some artistic leisure for her birthday breakfast<!--more-->:
 
 ![](/img/birthday-pancakes.jpeg)
 
