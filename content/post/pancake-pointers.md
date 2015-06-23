@@ -2,9 +2,9 @@
 comments = true
 date = "2015-06-22T00:00:00-00:00"
 draft = false
-image = "img/pancakes.jpg" 
+image = "img/pancakes.jpeg" 
 share = false
-slug = "pancake-pointer"
+slug = "pancake-pointers"
 tags = ["food"]
 title = "Pancake Pointers"
 
