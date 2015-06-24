@@ -2,11 +2,13 @@
 comments = true
 date = "2015-06-22T00:00:00-00:00"
 draft = true
-image = ""
+image = "img/" 
 share = false
-slug = "post-title"
+slug = "slug"
 tags = ["tag1"]
-title = "template"
-
+title = "title"
 +++
+
+
+
 
