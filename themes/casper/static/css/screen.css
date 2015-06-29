@@ -1076,7 +1076,7 @@ body:not(.post-template) .post-title {
    ========================================================================== */
 
 .post .post-header {
-   margin-bottom: 2.4rem;
+   margin-bottom: 0.8rem;
 }
 
 .post .post-title {
@@ -1133,8 +1133,8 @@ body:not(.post-template) .post-title {
 /* The author credit area after the post */
 .post-footer {
     position: relative;
-    margin: 6rem 0 0 0;
-    padding: 6rem 0 0 0;
+    margin: 0rem 0 0 0;
+    padding: 0rem 0 0 0;
     border-top: #EBF2F6 1px solid;
 }
 
@@ -1712,11 +1712,10 @@ body:not(.post-template) .post-title {
     }
 
     .post-date {
-        display: none;
     }
 
     .post-template .post-header {
-        margin-bottom: 2rem;
+        margin-bottom: 0.5rem;
     }
 
     .post-template .post-date {

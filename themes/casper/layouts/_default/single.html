@@ -60,8 +60,6 @@
     </figure>
     {{end}}
 
-    {{ partial "author.html" . }}
-
     {{ if ne .Params.share false}}
     <section class="share">
       <h4>Share this {{ if .Type }}{{.Type}}{{else}}post{{end}}</h4>
