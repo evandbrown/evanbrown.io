@@ -5,7 +5,7 @@ draft = false
 image = "img/jersey-salad-cover.jpg"
 share = false
 slug = "delancey-is-good"
-tags = ["food", "food"]
+tags = ["food"]
 title = "Delancey is Good"
 
 +++
