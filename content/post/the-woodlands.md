@@ -2,7 +2,7 @@
 comments = true
 date = "2015-06-29T00:00:00-00:00"
 draft = false 
-image = "img/woodlands-beer.jpeg"
+image = "img/woodlands-logo.jpeg"
 share = false
 slug = "the-woodlands"
 tags = ["food", "greenwood"]
