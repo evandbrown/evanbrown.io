@@ -98,7 +98,7 @@ Again, Travis is badass. Combined with go binaries, this was so easy. We just `g
 
 Travis provides built-in support for deploying to S3 after a build. This was the trickiest part. Set the `region` and `endpoint` to the correct values for your bucket. `skip_cleanup` is required so the generated files aren't deleted, and `local_dir` limits the uploaded files to those in the `public/` dir. Finally (and **most importantly**) I created an IAM user just for Travis, with s3::PubObject** just for my bucket:
 
-{{< highlight javascript "style=friendly" >}}
+{{< highlight json "style=friendly" >}}
 {
     "Version": "2012-10-17",
     "Statement": [
