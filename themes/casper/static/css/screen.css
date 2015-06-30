@@ -255,7 +255,8 @@ h6 {
 }
 
 a {
-    color: #428bca;
+    color: #0066cc;
+    /**color: #428bca;**/
     text-decoration: none;
     transition: color 0.3s ease;
 }
@@ -544,7 +545,7 @@ body.nav-opened .site-wrapper {
     position: relative;
     padding: 15px 40px;
     margin: 0 0 30px 0;
-    background-color: #cccccc;
+    background-color: #006666;
 }
 
 .main-nav a {
@@ -797,6 +798,11 @@ body.nav-opened .nav {
     background: none !important;
     border: none !important;
     margin-right: 15px;
+}
+
+.blog-logo span {
+    height: 38px;
+    line-height: 38px;
 }
 
 .blog-logo img {
@@ -1630,6 +1636,7 @@ body:not(.post-template) .post-title {
 
     .blog-logo {
         padding: 5px;
+        font-size: 1.5rem;
     }
 
     .blog-logo img {
