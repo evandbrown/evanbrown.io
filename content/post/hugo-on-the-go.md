@@ -71,6 +71,8 @@ Here's a gif showing all of that, plus a few meta frames showing creation of the
 
 ![](/img/hugo-init.gif)
 
+What is that, a gif for ants? Unfortunately, [Giffer](http://gifferapp.com/) - I paid $2.99 for it - wants a $3.99 upgrade to do _high res_ images. Huh.
+
 ### Build and Publish with Travis
 I dropped a standard and simple `.travis.yml` in my repo. The current version is at [https://github.com/evandbrown/evanbrown.io/blob/master/.travis.yml](https://github.com/evandbrown/evanbrown.io/blob/master/.travis.yml). Here's a pretty snippet current as of the publishing date:
 
