@@ -255,7 +255,8 @@ h6 {
 }
 
 a {
-    color: #428bca;
+    color: #0066cc;
+    /**color: #428bca;**/
     text-decoration: none;
     transition: color 0.3s ease;
 }
@@ -544,7 +545,7 @@ body.nav-opened .site-wrapper {
     position: relative;
     padding: 15px 40px;
     margin: 0 0 30px 0;
-    background-color: #cccccc;
+    background-color: #006666;
 }
 
 .main-nav a {
@@ -799,6 +800,11 @@ body.nav-opened .nav {
     margin-right: 15px;
 }
 
+.blog-logo span {
+    height: 38px;
+    line-height: 38px;
+}
+
 .blog-logo img {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -993,7 +999,7 @@ body:not(.post-template) .post-title {
 
 .post-meta {
     display: block;
-    margin: 1.75rem 0 0 0;
+    margin: 0.75rem 0 0 0;
     font-family: "Open Sans", sans-serif;
     font-size: 1.5rem;
     line-height: 2.2rem;
@@ -1084,7 +1090,6 @@ body:not(.post-template) .post-title {
 }
 
 .post .post-meta {
-    margin: 0;
 }
 
 .post .post-date {
@@ -1631,6 +1636,7 @@ body:not(.post-template) .post-title {
 
     .blog-logo {
         padding: 5px;
+        font-size: 1.5rem;
     }
 
     .blog-logo img {
