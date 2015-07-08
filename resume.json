@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Evan Brown",
+    "label": "Programmer",
+    "picture": "",
+    "email": "evandbrown@gmail.com",
+    "phone": "(206) 947-9338",
+    "website": "http://evanbrown.io",
+    "summary": "I've deployed software in rural Tanzania in search of a malaria vaccine, built APIs and infra in the cloud for an IoT startup before cloud and IoT were cool, and most recently led developer advocacy programs for CloudFormation and Elastic Beanstalk at Amazon Web Services.",
+    "location": {
+      "address": "712 N 84th St",
+      "postalCode": "WA 98103",
+      "city": "Seattle",
+      "countryCode": "US",
+      "region": "Washington"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "evandbrown",
+        "url": "https://twitter.com/evandbrown"
+      },
+      {
+        "network": "GitHub",
+        "username": "evandbrown",
+        "url": "https://github.com/evandbrown"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Google",
+      "position": "Senior Cloud Architect",
+      "website": "http://cloud.google.com",
+      "startDate": "2014-09-29",
+      "endDate": "current",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of New Mexico",
+      "area": "Biology and Chemistry",
+      "studyType": "B.S.",
+      "startDate": "2001-01-01",
+      "endDate": "2004-12-01",
+      "gpa": "3.92"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Operational Excellence",
+      "date": "2013-03-31",
+      "awarder": "Amazon Web Services",
+      "summary": "Given the quarterly award (a fire extinguisher) by AWS SVP Andy Jassy for engineering operational excellence."
+    },
+    {
+      "title": "AWS Certified Solution Architect",
+      "date": "2013-05-01",
+      "awarder": "Amazon Web Services"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ]
+}
