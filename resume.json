@@ -67,31 +67,72 @@
   ],
   "publications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "DockerCon Talk",
+      "releaseDate": "2014-06-01",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Develop, Deploy, and Manage Applications at Scale",
+      "publisher": "Amazon Web Services",
+      "releaseDate": "2014-08-01",
+      "website": "",
+      "summary": "A Kindle book based on a comprehensive 5-part blog series covering best practices for automating complex infrastructure using CloudFormation and Elastic Beanstalk"
+    },
+    {
+      "name": "DockerCon Talk",
+      "releaseDate": "2014-06-01",
+      "website": "",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Infrastructure Automation",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "AWS CloudFormation",
+        "Google Cloud Platform Deployment Manager",
+        "Jenkins",
+        "Chef",
+        "Puppet"
       ]
     },
     {
-      "name": "Compression",
+      "name": "Amazon Web Services",
       "level": "Master",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "CloudFormation",
+        "VPC",
+        "IAM",
+        "EC2",
+        "S3",
+        "Elastic Beanstalk"
       ]
+    },
+    {
+      "name": "Google Cloud Platform",
+      "level": "Master",
+      "keywords": [
+        "Compute Engine",
+        "Container Engine",
+        "Cloud Storage",
+        "EC2",
+        "S3",
+        "Elastic Beanstalk"
+      ]
+    },
+    {
+      "name": "Go",
+      "level": "Proficient working knowledge"
+    },
+    {
+      "name": "Python",
+      "level": "Proficient working knowledge"
+    },
+    {
+      "name": "Git",
+      "level": "Advanced (except bisect)"
     }
   ]
 }
