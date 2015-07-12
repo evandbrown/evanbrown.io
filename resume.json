@@ -34,11 +34,63 @@
       "website": "http://cloud.google.com",
       "startDate": "2014-09-29",
       "endDate": "current",
-      "summary": "", 
+      "summary": "I help customers run large-scale, reliable applications on Google Cloud Platform by working with engineers and architects to design, build, optimize, and operate infrastructure in the cloud. My specialties are systems automation, security, and migrating workloads to container-based deployments. In addition to helping customers build and deploy applications, I publish technical solutions and open source reference architectures to provide guidance and best-practices to a large audience.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "[Automated Image Builds with Jenkins, Kubernetes, and Packer](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes)",
+        "[Scalable and Resilient Web Applications](#)",
+        "Helped startup..."
+      ]
+    },
+    {
+      "company": "Amazon Web Services",
+      "position": "Senior Technical Program Manager",
+      "website": "http://aws.amazon.com",
+      "startDate": "2011-05-01",
+      "endDate": "2014-09-01",
+      "summary": "I help customers run large-scale, reliable applications on Google Cloud Platform by working with engineers and architects to design, build, optimize, and operate infrastructure in the cloud. My specialties are systems automation, security, and migrating workloads to container-based deployments. In addition to helping customers build and deploy applications, I publish technical solutions and open source reference architectures to provide guidance and best-practices to a large audience.",
+      "highlights": [
+        "[Automated Image Builds with Jenkins, Kubernetes, and Packer](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes)",
+        "[Scalable and Resilient Web Applications](#)",
+        "Helped startup..."
+      ]
+    },
+    {
+      "company": "Enmetric Systems",
+      "position": "Lead Software Engineer, Founding Team",
+      "website": "http://www.enmetric.com",
+      "startDate": "2011-04-01",
+      "endDate": "2008-02-01",
+      "summary": "I help customers run large-scale, reliable applications on Google Cloud Platform by working with engineers and architects to design, build, optimize, and operate infrastructure in the cloud. My specialties are systems automation, security, and migrating workloads to container-based deployments. In addition to helping customers build and deploy applications, I publish technical solutions and open source reference architectures to provide guidance and best-practices to a large audience.",
+      "highlights": [
+        "[Automated Image Builds with Jenkins, Kubernetes, and Packer](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes)",
+        "[Scalable and Resilient Web Applications](#)",
+        "Helped startup..."
+      ]
+    },
+    {
+      "company": "Center for Infectious Disease Research",
+      "position": "Bioinformatics Programmer",
+      "website": "http://www.cidresearch.org/",
+      "startDate": "2005-08-01",
+      "endDate": "2008-10-01",
+      "summary": "I help customers run large-scale, reliable applications on Google Cloud Platform by working with engineers and architects to design, build, optimize, and operate infrastructure in the cloud. My specialties are systems automation, security, and migrating workloads to container-based deployments. In addition to helping customers build and deploy applications, I publish technical solutions and open source reference architectures to provide guidance and best-practices to a large audience.",
+      "highlights": [
+        "[Automated Image Builds with Jenkins, Kubernetes, and Packer](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes)",
+        "[Scalable and Resilient Web Applications](#)",
+        "Helped startup..."
+      ]
+    },
+    {
+      "company": "The University of New Mexico Hospital",
+      "position": "Network Administrator",
+      "website": "http://hsc.unm.edu/",
+      "startDate": "2001-05-01",
+      "endDate": "2005-07-01",
+      "summary": "I help customers run large-scale, reliable applications on Google Cloud Platform by working with engineers and architects to design, build, optimize, and operate infrastructure in the cloud. My specialties are systems automation, security, and migrating workloads to container-based deployments. In addition to helping customers build and deploy applications, I publish technical solutions and open source reference architectures to provide guidance and best-practices to a large audience.",
+      "highlights": [
+        "[Automated Image Builds with Jenkins, Kubernetes, and Packer](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes)",
+        "[Scalable and Resilient Web Applications](#)",
+        "Helped startup..."
       ]
     }
   ],
@@ -67,23 +119,22 @@
   ],
   "publications": [
     {
-      "name": "DockerCon Talk",
-      "releaseDate": "2014-06-01",
-      "website": "",
-      "summary": ""
+      "name": "AWS re:Invent 2013 Talk",
+      "website": "https://www.youtube.com/watch?v=Zb-lNr_TV2k",
+      "summary": "Zero to Sixty: AWS Elastic Beanstalk"
     },
     {
       "name": "Develop, Deploy, and Manage Applications at Scale",
       "publisher": "Amazon Web Services",
       "releaseDate": "2014-08-01",
-      "website": "",
+      "website": "http://www.amazon.com/Develop-Deploy-Elastic-Beanstalk-CloudFormation-ebook/dp/B00O96HVW6/ref=sr_1_1?ie=UTF8&qid=1436677346&sr=8-1&keywords=develop+deploy+and+manage",
       "summary": "A Kindle book based on a comprehensive 5-part blog series covering best practices for automating complex infrastructure using CloudFormation and Elastic Beanstalk"
     },
     {
       "name": "DockerCon Talk",
       "releaseDate": "2014-06-01",
-      "website": "",
-      "summary": ""
+      "website": "https://www.youtube.com/watch?v=OzLXj2W2Rss",
+      "summary": "High Fidelity, High Velocity Deployments in the Cloud"
     }
   ],
   "skills": [
