@@ -30,11 +30,11 @@
   "work": [
     {
       "company": "Google",
-      "position": "Senior Cloud Architect",
+      "position": "Senior Cloud Solutions Architect",
       "website": "http://cloud.google.com",
       "startDate": "2014-09-29",
       "endDate": "current",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "summary": "", 
       "highlights": [
         "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
         "Successfully won Techcrunch Disrupt",
