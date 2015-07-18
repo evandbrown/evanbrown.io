@@ -10,7 +10,7 @@ title = "Taking Good Care of that Healthy Baby"
 +++
 
 
-My niece Iris typed June (her cousin) and me and Elli a letter and sent it in the mail this week. This line KILLED me:
+My niece Iris typed June (her cousin) and me and Elli a letter and sent it in the mail this week.<!--more--> This line KILLED me:
 
 > I bet y'all are taking good care of that healthy baby
 
