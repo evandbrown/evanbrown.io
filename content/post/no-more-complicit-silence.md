@@ -12,7 +12,7 @@ title = "Silence is Complicit. I'll Speak Up Now."
 +++
 
 [Jessie Frazelle](https://twitter.com/frazelledazzell) of Docker engineering fame wrote [This Industry is Fucked](https://blog.jessfraz.com/post/this-industry-is-fucked/) a few days ago. Read it now if you haven't. Her experience - and as far as I can tell the experience of most women in technology - is revolting, shocking, disgusting, all of those things. 
-
+<!--more-->
 I share all of the positive sentiments expressed [by people in response to her tweet](https://twitter.com/frazelledazzell/status/617823210524913664): Jessie's an important engineer working on important things that I use every day; she tweets funny and important things (I found [i3wm](http://i3wm.org/) from her and it made computers fun again, but that's another post...); she gives [awesome](https://www.youtube.com/watch?v=1qlLUf7KtAw) [talks](https://www.youtube.com/watch?v=GsLZz8cZCzc&list=PLcHZXHMeDzxUhStxW31CtiMcCbrgfrzuH). So yeah: fuck the haters, keep your head up, you're awesome - I agree.
 
 #### Fuck the Haters. But Wait, There's More...
