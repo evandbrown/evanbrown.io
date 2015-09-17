@@ -9,8 +9,7 @@ title = "Resume"
 
 Email: [evandbrown@gmail.com](mailto:evandbrown@gmail.com)  
 Website: [http://evanbrown.io](http://evanbrown.io)  
-Phone: (206) 947-9338  
-Address: 712 N 84th St, Seattle, WA 98103  
+Phone: (206) 947-9338
 Twitter: [@evandbrown](https://twitter.com/evandbrown)  
 GitHub: [evandbrown](https://github.com/evandbrown)  
 
