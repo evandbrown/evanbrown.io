@@ -80,6 +80,9 @@ Received quarterly award (a fire extinguisher) by AWS SVP Andy Jassy for enginee
 #### [dm](https://github.com/evandbrown/dm)
 Golang. Author and maintainer. An opinionated tool for using the Deployment Manager service from Google Cloud Platform.
 
+#### [golang.org/x/build](https://github.com/golang/build/commits?author=evandbrown)
+Golang. Contributions to support automated build and test of the Go language on Kubernetes.
+
 #### [Packer](https://github.com/mitchellh/packer/pull/1679)
 Golang. Security contributions to GCE support in Packer.
 
