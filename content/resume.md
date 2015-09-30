@@ -118,10 +118,11 @@ High Fidelity, High Velocity Deployments in the Cloud
 
 ## Skills
 
-* Advanced - Infrastructure Automation (AWS CloudFormation, Google Cloud Platform Deployment Manager, Jenkins)
+* Advanced - Infrastructure Automation (Terraform, Packer, Vagrant, Consul, AWS CloudFormation, Google Cloud Platform Deployment Manager, Jenkins)
 * Advanced - Amazon Web Services (CloudFormation, VPC, IAM, EC2, S3, Elastic Beanstalk)
 * Advanced - Google Cloud Platform (Compute Engine, Container Engine, Cloud Storage, EC2, S3, Elastic Beanstalk)
-* Advanced - Go and Java
-* Advanced - (except bisect) in Git
+* Advanced - Go (Golang)
+* Advanced - Git (except bisect)
 * Intermediate - Chef and Puppet
+* Intermediate - Java
 * Working Knowledge - Python, .Net, and Ruby
