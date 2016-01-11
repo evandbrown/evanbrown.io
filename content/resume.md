@@ -89,30 +89,82 @@ Golang. Security contributions to GCE support in Packer.
 #### [aMediaManager](https://github.com/awslabs/amediamanager)
 Java/Spring. Primary author. Reference application for the [Develop, Deploy, and Manage Applications at Scale](http://www.amazon.com/Develop-Deploy-Elastic-Beanstalk-CloudFormation-ebook/dp/B00O96HVW6/ref=sr_1_1?ie=UTF8&qid=1436677346&sr=8-1&keywords=develop+deploy+and+manage) Kindle book, using CloudFormation, Elastic Beanstalk, S3, Elastic Transcoding Service, VPC, IAM, and other core AWS services.
 
-
 ---
 
-## Publications and Blog Posts
+## Speaking and Technical Talks
 
-#### [ Scalable and Resilient Web Applications on Google Cloud Platform](http://googlecloudplatform.blogspot.com/2015/03/introducing-the-Scalable-and-Resilient-Web-Apps-Solution.html)  
-Primary author.
+### [Go, Build it on a Cluster](https://www.youtube.com/watch?v=UXwq39HEof0&feature=youtu.be)
+KubeCon, 2015
+
+#### [High Fidelity, High Velocity Deployments in the Cloud](https://www.youtube.com/watch?v=OzLXj2W2Rss)
+DockerCon, 2014
+
+#### [Deploy, Manage and Scale Your Apps with AWS OpsWorks and Elastic Beanstalk](https://www.youtube.com/watch?v=WNLIsqjkvu8)
+AWS Summit, 2014
+
+#### [Zero to Sixty: AWS Elastic Beanstalk](https://www.youtube.com/watch?v=Zb-lNr_TV2k)
+AWS re:Invent, 2013
+
+## Publications
+
+### 2016
+
+#### [Autoscaled Internal Load Balancing using HAProxy and Consul on Compute Engine](https://cloud.google.com/solutions/autoscaled-load-balancing-using-haproxy-and-consul-on-compute-engine)
+Primary author
+
+### 2015
 
 #### [Automated Compute Engine and Docker Image Builds with Jenkins, Packer, and Kubernetes](http://googlecloudplatform.blogspot.com/2015/05/Automated-Compute-Engine-and-Docker-Image-Builds-with-Jenkins-Packer-and-Kubernetes.html)
-Primary author.
+Primary author
 
-#### [Strong, Simple SSL for Kubernetes Services](http://blog.kubernetes.io/2015/07/strong-simple-ssl-for-kubernetes.html)
-Primary author.
+#### [ Scalable and Resilient Web Applications on Google Cloud Platform](http://googlecloudplatform.blogspot.com/2015/03/introducing-the-Scalable-and-Resilient-Web-Apps-Solution.html)  
+Primary author
+
+### 2014
 
 #### [Develop, Deploy, and Manage Applications at Scale](http://www.amazon.com/Develop-Deploy-Elastic-Beanstalk-CloudFormation-ebook/dp/B00O96HVW6/ref=sr_1_1?ie=UTF8&qid=1436677346&sr=8-1&keywords=develop+deploy+and+manage)
+A Kindle book based on a comprehensive 5-part blog series covering best practices for automating complex infrastructure using CloudFormation and Elastic Beanstalk. Primary author.
 
-A Kindle book based on a comprehensive 5-part blog series covering best practices for automating complex infrastructure using CloudFormation and Elastic Beanstalk.
+## Blog Posts
 
-#### [Zero to Sixty: AWS Elastic Beanstalk](https://www.youtube.com/watch?v=Zb-lNr_TV2k) (re:Invent 2013)
+### 2015
 
+#### [Automating Configuration Management with Google Cloud Deployment Manager and Puppet](http://googlecloudplatform.blogspot.com/2015/10/automating-configuration-management-with-Google-Cloud-Deployment-Manager-and-Puppet.html)
 
-#### [DockerCon 2014](https://www.youtube.com/watch?v=OzLXj2W2Rss)
+#### [Automated Compute Engine and Docker Image Builds with Jenkins, Packer, and Kubernetes](http://googlecloudplatform.blogspot.com/2015/05/Automated-Compute-Engine-and-Docker-Image-Builds-with-Jenkins-Packer-and-Kubernetes.html)
 
-High Fidelity, High Velocity Deployments in the Cloud
+#### [Migration and Beyond - Opportunities around Windows Server 2003 EOL](http://googlecloudplatform.blogspot.com/2015/07/Migration-and-Beyond-Opportunities-around-Windows-Server-2003-EOL.html)
+
+#### [Strong, Simple SSL for Kubernetes Services](http://blog.kubernetes.io/2015/07/strong-simple-ssl-for-kubernetes.html)
+
+#### [Introducing the Scalable and Resilient Web Apps Solution](http://googlecloudplatform.blogspot.com/2015/03/introducing-the-Scalable-and-Resilient-Web-Apps-Solution.html)
+
+### 2014
+
+#### [Customize Ephemeral and EBS Volumes in Elastic Beanstalk Environments](https://blogs.aws.amazon.com/application-management/post/Tx224DU59IG3OR9/Customize-Ephemeral-and-EBS-Volumes-in-Elastic-Beanstalk-Environments)
+
+#### [Using Amazon CloudWatch Logs with AWS Elastic Beanstalk](https://blogs.aws.amazon.com/application-management/post/Tx17NWFHNQGOGY9/Using-Amazon-CloudWatch-Logs-with-AWS-Elastic-Beanstalk)
+
+#### [Locally Packaging Gem Dependencies for Ruby Applications in Elastic Beanstalk](https://blogs.aws.amazon.com/application-management/post/Tx2XVRWSS4E971S/Locally-Packaging-Gem-Dependencies-for-Ruby-Applications-in-Elastic-Beanstalk)
+
+#### [Dockerizing a Python Web App](https://blogs.aws.amazon.com/application-management/post/Tx1ZLAHMVBEDCOC/Dockerizing-a-Python-Web-App)
+
+#### [Develop, Deploy, and Manage for Scale with Elastic Beanstalk and CloudFormation](Develop, Deploy, and Manage for Scale with Elastic Beanstalk and CloudFormation](https://blogs.aws.amazon.com/application-management/post/Tx20AOGS2BEUH48/Part-5-Develop-Deploy-and-Manage-for-Scale-with-Elastic-Beanstalk-and-CloudForma)
+[Part 1](https://blogs.aws.amazon.com/application-management/post/Tx2DUJYZVBMJ92J/Part-1-Develop-Deploy-and-Manage-for-Scale-with-Elastic-Beanstalk-and-CloudForma), [Part 2](https://blogs.aws.amazon.com/application-management/post/Tx1NV26L8WNB0QS/Part-2-Develop-Deploy-and-Manage-for-Scale-with-Elastic-Beanstalk-and-CloudForma), [Part 3](https://blogs.aws.amazon.com/application-management/post/Tx1H4LR4P9OF6HC/Part-3-Develop-Deploy-and-Manage-for-Scale-with-Elastic-Beanstalk-and-CloudForma), [Part 4](https://blogs.aws.amazon.com/application-management/post/Tx3CSXZ5PNAQVSK/Part-4-Develop-Deploy-and-Manage-for-Scale-with-Elastic-Beanstalk-and-CloudForma), [Part 5](https://blogs.aws.amazon.com/application-management/post/Tx20AOGS2BEUH48/Part-5-Develop-Deploy-and-Manage-for-Scale-with-Elastic-Beanstalk-and-CloudForma)
+
+#### [Quick-Launch Elastic Beanstalk Applications in Three Clicks](https://blogs.aws.amazon.com/application-management/post/Tx122LPLJ0Z3LCF/Quick-Launch-Your-Elastic-Beanstalk-Application-in-Three-Clicks)
+
+#### [Customers, CloudFormation, and Custom Resources](https://blogs.aws.amazon.com/application-management/post/Tx2FNAPE4YGYSRV/Customers-CloudFormation-and-Custom-Resources)
+
+#### [Using DynamoDB and SNS with Elastic Beanstalk in any AWS Region](https://blogs.aws.amazon.com/application-management/post/Tx2PM64E771CQGG/Using-DynamoDB-and-SNS-with-Elastic-Beanstalk-in-any-Supported-AWS-Region)
+
+### 2013
+
+#### [Creating Deployable App Archives for Elastic Beanstalk](https://blogs.aws.amazon.com/application-management/post/Tx140RGCZOBL03S/Creating-Deployable-App-Archives-for-Elastic-Beanstalk)
+
+#### [A Sample App for Startups](https://blogs.aws.amazon.com/application-management/post/Tx36JL4GPZR4G98/A-Sample-App-For-Startups)
+
+#### [CloudFormation and the New AWS CLI](https://blogs.aws.amazon.com/application-management/post/TxIGF3TLJQDKE5/CloudFormation-and-the-New-AWS-CLI)
 
 ---
 
