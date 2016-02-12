@@ -9,7 +9,7 @@ title = "Resume"
 
 Email: [evandbrown@gmail.com](mailto:evandbrown@gmail.com)  
 Website: [http://evanbrown.io](http://evanbrown.io)  
-Phone: (206) 947-9338
+Phone: (206) 947-9338  
 Twitter: [@evandbrown](https://twitter.com/evandbrown)  
 GitHub: [evandbrown](https://github.com/evandbrown)  
 
@@ -26,9 +26,26 @@ I&#x27;ve deployed software in rural Tanzania in search of a malaria vaccine, bu
 ### Senior Cloud Solutions Architect, [Google](http://cloud.google.com)
 ##### September 2014 - present
 
-I help customers run large-scale, reliable applications on Google Cloud Platform by working with engineers and architects to design, build, optimize, and operate infrastructure in the cloud. My specialties are systems automation, security, and migrating workloads to container-based deployments. In addition to helping customers build and deploy applications, I publish technical solutions and open source reference architectures to provide guidance and best-practices to a large audience.
+I help customers run large-scale, reliable applications on Google Cloud Platform by working with engineers and architects to design, build, optimize, and operate infrastructure in the cloud. My specialties are systems automation, security, and migrating workloads to container-based deployments. In addition to helping customers build and deploy applications, I publish technical solutions and open source reference architectures to provide guidance and best-practices to a large audience.*
 
-For my 20% project I created (and currently maintain) the [`dm` tool](http://github.com/evandbrown/dm) for Google Cloud Platform's [Deployment Manager](https://cloud.google.com/deployment-manager/overview) service. Written in Go, `dm` is a tool with an opinion (not unlike `rake` or `make`) that makes managing large-scale cloud infrastructure not only super-efficient, but really fun.
+
+##### Open source contributions at Google
+* **The Go build system**: Added Kubernetes support to the [Go build system](https://build.golang.org). [CL 15285](https://go-review.googlesource.com/#/c/15285/) added support for cancellation and deadlines with the `golang.org/x/net/context` package. All CLs are available at [https://go-review.googlesource.com/#/q/owner:evanbrown%2540google.com+status:merged](https://go-review.googlesource.com/#/q/owner:evanbrown%2540google.com+status:merged). I [gave a talk](https://www.youtube.com/watch?v=UXwq39HEof0&feature=youtu.be) on this work at the inaugural KubeCon 2015.
+
+* **The `dm` tool**: I created and maintain the [`dm` tool](http://github.com/evandbrown/dm) for Google Cloud Platform's [Deployment Manager](https://cloud.google.com/deployment-manager/overview) service. Written in Go, `dm` is a tool with an opinion (not unlike `rake` or `make`) that makes managing large-scale cloud infrastructure not only efficient but fun.
+
+* **`packer`**: Contributions to improve OAuth and service account for support when running `packer` on GCE. [https://github.com/mitchellh/packer/pull/1679](https://github.com/mitchellh/packer/pull/1679)
+
+* **Continuous delivery with Jenkins and Kubernetes**: A reference implentation for running a continuous deployment pipeline with Jenkins and Jenkins Workflow on Kubernetes. [https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
+
+* **GCE internal load balancer**: A reference implementation for running autoscaled HAProxy on GCE. [https://github.com/GoogleCloudPlatform/compute-internal-loadbalancer](https://github.com/GoogleCloudPlatform/compute-internal-loadbalancer)
+
+* **SSL proxy for Kubernetes**: A reference implementation for running an SSL-terminated reverse proxy on Kubernetes. Currently top search result for [kubernetes ssl](https://www.google.com/search?q=kubernetes+ssl). [https://github.com/GoogleCloudPlatform/nginx-ssl-proxy](https://github.com/GoogleCloudPlatform/nginx-ssl-proxy)
+
+* **Automated GCE and Docker image builds**: A reference implementation for continuously building VM and Docker images. [https://github.com/GoogleCloudPlatform/jenkins-packer-agent](https://github.com/GoogleCloudPlatform/jenkins-packer-agent)
+
+* **Scalable, resilient web apps on GCE**: A reference implementation for deploying web application on GCE. [https://github.com/GoogleCloudPlatform/scalable-resilient-web-app](https://github.com/GoogleCloudPlatform/scalable-resilient-web-app)
+
 
 ### Senior Technical Program Manager, [Amazon Web Services](http://aws.amazon.com)
 ##### May 2011 - August 2014
