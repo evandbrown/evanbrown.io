@@ -2,7 +2,6 @@
 comments = true
 date = "2016-03-16T00:00:00-00:00"
 draft = false
-image = "img/alphago.png" 
 menu = ""
 share = false
 slug = "the-next-big-thing"
