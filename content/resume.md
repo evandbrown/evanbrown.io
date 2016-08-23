@@ -23,8 +23,13 @@ I&#x27;ve deployed software in rural Tanzania in search of a malaria vaccine, bu
 
 ## Work
 
+### Senior Software Engineer, [Google](http://cloud.google.com)
+##### January 2015 - present
+
+I contribute to leading open source software projects on behalf of Google to make Google Cloud Platform a first-class option for customers who use that software. I lead the development of [CloudFoundry](https://github.com/cloudfoundry-incubator/bosh-google-cpi-release/commits?author=evandbrown) and [Terraform](https://github.com/hashicorp/terraform/commits?author=evandbrown) integrations, focusing on Go, distributed systems, and infrastructure automation tooling.
+
 ### Senior Cloud Solutions Architect, [Google](http://cloud.google.com)
-##### September 2014 - present
+##### September 2014 - December 2015
 
 I help customers run large-scale, reliable applications on Google Cloud Platform by working with engineers and architects to design, build, optimize, and operate infrastructure in the cloud. My specialties are systems automation, security, and migrating workloads to container-based deployments. In addition to helping customers build and deploy applications, I publish technical solutions and open source reference architectures to provide guidance and best-practices to a large audience.*
 
