@@ -4,15 +4,19 @@ title = "evanbrown.io"
 paginate = 4
 DisqusShortname = "evanbrownio"
 Copyright = "All rights reserved - 2015"
+theme = "hugo-flex"
 
 [params]
   description = "Evan's web log"
   cover = "img/cover-nyc.jpg"
-  author = "Evan Brown"
-  authorlocation = "Bainbridge Island, WA"
-  authorwebsite = "http://evanbrown.io"
   bio= ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   githubName = "evandbrown"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
+
+[params.author]
+name = "Evan Brown"
+email = "evandbrown@gmail.com"
+location = "Bainbridge Island, WA"
+website = "http://evanbrown.io"
