@@ -6,12 +6,12 @@ DisqusShortname = "evanbrownio"
 Copyright = "All rights reserved - 2015"
 
 [params]
-  description = "I'm Evan. I write about tech, Seattle, and being a dad."
+  description = "Evan's web log"
   cover = "img/cover-nyc.jpg"
-  author = "Evan D. Brown"
-  authorlocation = "Seattle, WA"
+  author = "Evan Brown"
+  authorlocation = "Bainbridge Island, WA"
   authorwebsite = "http://evanbrown.io"
-  bio= "Dad, developer, Googler in Seattle."
+  bio= ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   githubName = "evandbrown"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
