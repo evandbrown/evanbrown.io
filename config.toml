@@ -13,7 +13,7 @@ theme = "hugo-flex"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   githubName = "evandbrown"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = false
+  hideHUGOSupport = true
 
 [params.author]
 name = "Evan Brown"
