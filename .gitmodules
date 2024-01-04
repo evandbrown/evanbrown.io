@@ -1,3 +1,3 @@
 [submodule "themes/hugo-flex"]
 	path = themes/hugo-flex
-	url = https://github.com/ldeso/hugo-flex.git
+	url = https://github.com/evandbrown/hugo-flex.git
